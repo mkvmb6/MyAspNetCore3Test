@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAspNetCore3Test", "MyAspNetCore3Test\MyAspNetCore3Test.csproj", "{FE2E4B36-AD48-4DF4-901B-CC068C5BB9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2E4B36-AD48-4DF4-901B-CC068C5BB9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2E4B36-AD48-4DF4-901B-CC068C5BB9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2E4B36-AD48-4DF4-901B-CC068C5BB9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2E4B36-AD48-4DF4-901B-CC068C5BB9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD54167-D59E-4FB7-93CE-8788E3FFA1FF}
+	EndGlobalSection
+EndGlobal
